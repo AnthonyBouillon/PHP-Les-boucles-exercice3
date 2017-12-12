@@ -5,7 +5,7 @@
     <title>Les boucles exercice 3</title>
   </head>
   <body>
-
+<!-- Commentaire -->
 <?php
 $number = 100;
 $number2 = rand(0, 99);
